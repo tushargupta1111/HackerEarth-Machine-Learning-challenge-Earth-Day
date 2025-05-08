@@ -70,3 +70,5 @@ This project is open-source and available under the MIT License. 1 Feel free to 
 
 ---
 [Link to the GitHub Repository: https://github.com/tushargupta1111/HackerEarth-Machine-Learning-challenge-Earth-Day](https://github.com/tushargupta1111/HackerEarth-Machine-Learning-challenge-Earth-Day)
+
+Top 50 (Hackerearth ML challenge) with score 87.95944 
